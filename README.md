@@ -5,7 +5,7 @@ Executive dashboard showing regional sales with overall Revenue, Profit and Prof
 
 End-To-End retail sales analytics project utilizing MySQL for ETL and Power BI for executive dashboard. Highlights include importing 500K+ rows of data using LOAD DATA INFILE query in MySQL and resolving granularity error by data modeling in Power BI.
 
-# Porject Overview
+# Project Overview
 This project transforms 829262 rows of data into 3-Tier Executive Summary, covering overall data lifecycle from optimizing SQL ingestion to overall Power BI modelling and overall performance visualization.
 [click here to download the data](https://www.kaggle.com/datasets/amulyas/mexican-toys-sales) 
 
